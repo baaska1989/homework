@@ -3,6 +3,7 @@ import Router from "vue-router";
 import Home from "../views/pages/Home.vue";
 import AboutUS from "../views/pages/AboutUS";
 import Layout from "../views/layouts/MainLayout.vue";
+
 Vue.use(Router);
 
 const router = new Router({
